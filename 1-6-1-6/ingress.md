@@ -1,2 +1,4 @@
-# Pflichtenheft für die Jugendbegleitgruppe
-Vom 10.06.2024
+# Pflichtenheft für die Jugendbegleitkommission
+Vom 28.09.2026
+Der Gemeinderat
+beschliesst
