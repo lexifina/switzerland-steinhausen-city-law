@@ -1,5 +1,8 @@
-# Strassenreglement
-Vom 10.05.1999
-Die Gemeindeversammlung,
-gestützt auf § 17 Abs. 1 Ziff. 7 und § 39 des Baugesetzes für den Kantons Zug vom 18. Mai 1967 sowie § 44 des Gesetzes über Strassen und Wege des Kantons Zug vom 30. Mai 1996,
+Reglement
+# Strassenreglement der Gemeinde Steinhausen
+(RStra)
+Vom 29.06.2025
+Die Einwohnergemeinde Steinhausen,
+gestützt auf § 44 des Gesetzes über Strassen und Wege des Kantons Zug (BGS 751.14) vom 30. Mai 1996 (Stand 1. Juni 2019) und § 17 des Planungs- und Baugesetzes des Kantons Zug (BGS 721.11) vom 26. November 1998 (Stand 23. Oktober 2021),
 beschliesst:
+1 Allgemeine Bestimmungen
