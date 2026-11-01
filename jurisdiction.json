@@ -1,0 +1,11 @@
+{
+  "path": "ch-zg-steinhausen",
+  "code": "CH-ZG-STEINHAUSEN",
+  "name": "Steinhausen (city)",
+  "level": "municipality",
+  "parent": "ch-zg",
+  "repo": "https://github.com/lexifina/switzerland-steinhausen-city-law",
+  "build": "built: Gemeindeordnung and municipal enactments (51 acts, 68 versions) from the SRS",
+  "language": "de",
+  "sources": 1
+}

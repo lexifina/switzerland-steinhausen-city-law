@@ -1,0 +1,821 @@
+{
+ "country": "CH-ZG-STEINHAUSEN",
+ "acts": [
+  {
+   "slug": "1-1-1",
+   "short": "SRS 1.1-1",
+   "title": "Gemeindeordnung",
+   "url": "https://steinhausen.tlex.ch/app/de/texts_of_law/1.1-1",
+   "versions": [
+    {
+     "from": "2019-01-05",
+     "units": 34,
+     "source_url": "https://steinhausen.tlex.ch/api/de/texts_of_law/1.1-1",
+     "sha256": "bf9e6ec420eadb094669be999f821734fc7796b861b36f57a78e036b240fd757"
+    },
+    {
+     "from": "2027-01-01",
+     "units": 33,
+     "source_url": "https://steinhausen.tlex.ch/api/de/texts_of_law/1.1-1/versions/124",
+     "sha256": "627fb34041e1afaa1186ea8744946ffd4bbd8bc6addd51cb3be4393546616223"
+    }
+   ]
+  },
+  {
+   "slug": "1-6-1",
+   "short": "SRS 1.6-1",
+   "title": "Strategische Grundsätze 2024 bis 2027 – Digitalisierung",
+   "url": "https://steinhausen.tlex.ch/app/de/texts_of_law/1.6-1",
+   "versions": [
+    {
+     "from": "2024-10-01",
+     "units": 7,
+     "source_url": "https://steinhausen.tlex.ch/api/de/texts_of_law/1.6-1",
+     "sha256": "a2854b190401319516113aa99451fa5439720e0b653b98a2baa4a46e8fb3116b"
+    }
+   ]
+  },
+  {
+   "slug": "1-6-1-1",
+   "short": "SRS 1.6.1-1",
+   "title": "Pflichtenheft für die Baukommission",
+   "url": "https://steinhausen.tlex.ch/app/de/texts_of_law/1.6.1-1",
+   "versions": [
+    {
+     "from": "2024-01-01",
+     "units": 18,
+     "source_url": "https://steinhausen.tlex.ch/api/de/texts_of_law/1.6.1-1",
+     "sha256": "de0de21f92af46601da7c47b9186fe5f8a3c21abcaaf1790082043e27db2d87c"
+    },
+    {
+     "from": "2027-01-01",
+     "units": 18,
+     "source_url": "https://steinhausen.tlex.ch/api/de/texts_of_law/1.6.1-1/versions/142",
+     "sha256": "db2b2ca442b8d595cfe583311fcde1d31fae69386deffba015ec4917c73bd666"
+    }
+   ]
+  },
+  {
+   "slug": "1-6-1-2",
+   "short": "SRS 1.6.1-2",
+   "title": "Pflichtenheft für die Energie- und Umweltkommission",
+   "url": "https://steinhausen.tlex.ch/app/de/texts_of_law/1.6.1-2",
+   "versions": [
+    {
+     "from": "2024-01-01",
+     "units": 18,
+     "source_url": "https://steinhausen.tlex.ch/api/de/texts_of_law/1.6.1-2",
+     "sha256": "fee0b8194668a590ffb8f450c6c1e11a368532dd6b322de478551c81bdd7fe2d"
+    },
+    {
+     "from": "2027-01-01",
+     "units": 18,
+     "source_url": "https://steinhausen.tlex.ch/api/de/texts_of_law/1.6.1-2/versions/141",
+     "sha256": "1cc099b79fe3bb3fa004ad0006cd587f2e5ed81c3c27f3646c81e5c163435e33"
+    }
+   ]
+  },
+  {
+   "slug": "1-6-1-3",
+   "short": "SRS 1.6.1-3",
+   "title": "Pflichtenheft für die Feuerwehrkommission",
+   "url": "https://steinhausen.tlex.ch/app/de/texts_of_law/1.6.1-3",
+   "versions": [
+    {
+     "from": "2024-01-01",
+     "units": 18,
+     "source_url": "https://steinhausen.tlex.ch/api/de/texts_of_law/1.6.1-3",
+     "sha256": "e70c79d07cd16830cc19ffe41b52f8adae4e0f5a16a6d32ea9efde2cecc56d98"
+    },
+    {
+     "from": "2027-01-01",
+     "units": 18,
+     "source_url": "https://steinhausen.tlex.ch/api/de/texts_of_law/1.6.1-3/versions/140",
+     "sha256": "ff60067089fa652d516d33266467a72f0a77bf263eb72da5776ae6a3fe57e46e"
+    }
+   ]
+  },
+  {
+   "slug": "1-6-1-4",
+   "short": "SRS 1.6.1-4",
+   "title": "Pflichtenheft für die Finanzkommission",
+   "url": "https://steinhausen.tlex.ch/app/de/texts_of_law/1.6.1-4",
+   "versions": [
+    {
+     "from": "2024-01-01",
+     "units": 18,
+     "source_url": "https://steinhausen.tlex.ch/api/de/texts_of_law/1.6.1-4",
+     "sha256": "d98421d374d450bb361f3c47b6465ba42ce3994a5a6475a4f0a3970bac744c07"
+    },
+    {
+     "from": "2027-01-01",
+     "units": 18,
+     "source_url": "https://steinhausen.tlex.ch/api/de/texts_of_law/1.6.1-4/versions/139",
+     "sha256": "afb2c34f40934911192056dada0b92ab7f1eb0936b5304d143e3ec0864b12dd1"
+    }
+   ]
+  },
+  {
+   "slug": "1-6-1-5",
+   "short": "SRS 1.6.1-5",
+   "title": "Pflichtenheft für die Grundstückgewinnsteuerkommission",
+   "url": "https://steinhausen.tlex.ch/app/de/texts_of_law/1.6.1-5",
+   "versions": [
+    {
+     "from": "2024-01-01",
+     "units": 18,
+     "source_url": "https://steinhausen.tlex.ch/api/de/texts_of_law/1.6.1-5",
+     "sha256": "2dcb300b169236a7a867e8ddb752f94b757811377f971c382d3f54fab354e3f6"
+    },
+    {
+     "from": "2027-01-01",
+     "units": 18,
+     "source_url": "https://steinhausen.tlex.ch/api/de/texts_of_law/1.6.1-5/versions/128",
+     "sha256": "cebe1438a66ae834d6469cefdbfd4509220a9c265ea36a0bcdd368574f2c9269"
+    }
+   ]
+  },
+  {
+   "slug": "1-6-1-6",
+   "short": "SRS 1.6.1-6",
+   "title": "Pflichtenheft für die Jugendbegleitgruppe",
+   "url": "https://steinhausen.tlex.ch/app/de/texts_of_law/1.6.1-6",
+   "versions": [
+    {
+     "from": "2024-01-01",
+     "units": 18,
+     "source_url": "https://steinhausen.tlex.ch/api/de/texts_of_law/1.6.1-6",
+     "sha256": "88a79e0811abb0b95c9c361b4d346e0df683e2ef965fd6828c6e7af892a802c9"
+    },
+    {
+     "from": "2027-01-01",
+     "units": 18,
+     "source_url": "https://steinhausen.tlex.ch/api/de/texts_of_law/1.6.1-6/versions/131",
+     "sha256": "5d53c49b8da03d704c6f1c198e88faad4210a875542cbc6ab4032c1095a818cc"
+    }
+   ]
+  },
+  {
+   "slug": "1-6-1-7",
+   "short": "SRS 1.6.1-7",
+   "title": "Pflichtenheft für das Stimmbüro",
+   "url": "https://steinhausen.tlex.ch/app/de/texts_of_law/1.6.1-7",
+   "versions": [
+    {
+     "from": "2024-01-01",
+     "units": 16,
+     "source_url": "https://steinhausen.tlex.ch/api/de/texts_of_law/1.6.1-7/versions/81",
+     "sha256": "cd92f5d057d1afa2c00d606f21dea2cf9af9fd13e57c5250d32c239161053e55"
+    },
+    {
+     "from": "2026-10-01",
+     "units": 16,
+     "source_url": "https://steinhausen.tlex.ch/api/de/texts_of_law/1.6.1-7",
+     "sha256": "3e0b94f3e14d8f8f6a93f337609980fb4b30562c9cb5dad87a5707139e79d9a9"
+    }
+   ]
+  },
+  {
+   "slug": "1-6-1-8",
+   "short": "SRS 1.6.1-8",
+   "title": "Pflichtenheft für die Tiefbaukommission",
+   "url": "https://steinhausen.tlex.ch/app/de/texts_of_law/1.6.1-8",
+   "versions": [
+    {
+     "from": "2024-01-01",
+     "units": 18,
+     "source_url": "https://steinhausen.tlex.ch/api/de/texts_of_law/1.6.1-8",
+     "sha256": "03755517616bb05730225ce8de0b7dc3fb697b5e74f46656bc327143bc9423fa"
+    },
+    {
+     "from": "2027-01-01",
+     "units": 18,
+     "source_url": "https://steinhausen.tlex.ch/api/de/texts_of_law/1.6.1-8/versions/132",
+     "sha256": "487994040a6b6b405ee262dad82bd6794bca21a05ceb833dabd995a0064b79d6"
+    }
+   ]
+  },
+  {
+   "slug": "1-6-1-9",
+   "short": "SRS 1.6.1-9",
+   "title": "Pflichtenheft für die Friedhofskommission",
+   "url": "https://steinhausen.tlex.ch/app/de/texts_of_law/1.6.1-9",
+   "versions": [
+    {
+     "from": "2024-10-01",
+     "units": 18,
+     "source_url": "https://steinhausen.tlex.ch/api/de/texts_of_law/1.6.1-9",
+     "sha256": "ad60d176a45e86615e734afd7e2c08d420a6fa7b2627e021f30ec10be0bfc448"
+    },
+    {
+     "from": "2027-01-01",
+     "units": 18,
+     "source_url": "https://steinhausen.tlex.ch/api/de/texts_of_law/1.6.1-9/versions/138",
+     "sha256": "ea301e3d9966cd83259de47f8e403da30418ddf27c566d4e321844768c3c8eda"
+    }
+   ]
+  },
+  {
+   "slug": "1-6-5",
+   "short": "SRS 1.6-5",
+   "title": "Richtlinie über die Bestellung von ständigen Kommissionen",
+   "url": "https://steinhausen.tlex.ch/app/de/texts_of_law/1.6-5",
+   "versions": [
+    {
+     "from": "2026-10-01",
+     "units": 8,
+     "source_url": "https://steinhausen.tlex.ch/api/de/texts_of_law/1.6-5",
+     "sha256": "cb5063a19efeecf6a144383811add038c736786b345af2e8889349d1ad594c0e"
+    }
+   ]
+  },
+  {
+   "slug": "1-7-1",
+   "short": "SRS 1.7-1",
+   "title": "Personalreglement für die Behörden und die Mitarbeitenden",
+   "url": "https://steinhausen.tlex.ch/app/de/texts_of_law/1.7-1",
+   "versions": [
+    {
+     "from": "2024-01-01",
+     "units": 59,
+     "source_url": "https://steinhausen.tlex.ch/api/de/texts_of_law/1.7-1",
+     "sha256": "949e8714cff2e1e9e8c31f139aa0aa585b61e5e217a85400c850f96428394ec2"
+    }
+   ]
+  },
+  {
+   "slug": "2-1-1",
+   "short": "SRS 2.1-1",
+   "title": "Richtlinie über die Gebühren im Beurkundungswesen",
+   "url": "https://steinhausen.tlex.ch/app/de/texts_of_law/2.1-1",
+   "versions": [
+    {
+     "from": "2016-01-01",
+     "units": 11,
+     "source_url": "https://steinhausen.tlex.ch/api/de/texts_of_law/2.1-1/versions/72",
+     "sha256": "85db6a680dd016b69d80f444d9531ff2f55f80a9ba6942710cdf95c64173dd53"
+    },
+    {
+     "from": "2026-01-01",
+     "units": 11,
+     "source_url": "https://steinhausen.tlex.ch/api/de/texts_of_law/2.1-1",
+     "sha256": "430b35e20334d4a3ea60362c8039dd1cf0fa1a0a78dd9ced6952951d53a46086"
+    }
+   ]
+  },
+  {
+   "slug": "4-1-1",
+   "short": "SRS 4.1-1",
+   "title": "Reglement über die familien- und schulergänzende Kinderbetreuung",
+   "url": "https://steinhausen.tlex.ch/app/de/texts_of_law/4.1-1",
+   "versions": [
+    {
+     "from": "2017-08-01",
+     "units": 6,
+     "source_url": "https://steinhausen.tlex.ch/api/de/texts_of_law/4.1-1",
+     "sha256": "0a902fe32cb8f839db162417e53c7a7207593524d48577dd56a9bb90028a0410"
+    }
+   ]
+  },
+  {
+   "slug": "4-1-1-1",
+   "short": "SRS 4.1-1.1",
+   "title": "Richtlinie über die familien- und schulergänzende Kinderbetreuung",
+   "url": "https://steinhausen.tlex.ch/app/de/texts_of_law/4.1-1.1",
+   "versions": [
+    {
+     "from": "2021-01-01",
+     "units": 31,
+     "source_url": "https://steinhausen.tlex.ch/api/de/texts_of_law/4.1-1.1/versions/73",
+     "sha256": "b8a237f248e9626c55bd5e9814864c205a87c96f2f2a2c4557e69c88dded0ba2"
+    },
+    {
+     "from": "2026-09-01",
+     "units": 30,
+     "source_url": "https://steinhausen.tlex.ch/api/de/texts_of_law/4.1-1.1",
+     "sha256": "e2d7b57083c3ed64364d036a16246ae75479fdd5cad7c59cfc8c68a8bafaa0b3"
+    }
+   ]
+  },
+  {
+   "slug": "4-2-1",
+   "short": "SRS 4.2-1",
+   "title": "Reglement für die Benutzung von elektronischen Kommunikationsmittel, Internet und E-Mail an den Schulen",
+   "url": "https://steinhausen.tlex.ch/app/de/texts_of_law/4.2-1",
+   "versions": [
+    {
+     "from": "2008-01-01",
+     "units": 12,
+     "source_url": "https://steinhausen.tlex.ch/api/de/texts_of_law/4.2-1",
+     "sha256": "f8eb32171cfb04567b8ea6dd9935a0f164befbbdea8ee6b6cc48349a18df2971"
+    }
+   ]
+  },
+  {
+   "slug": "4-2-2",
+   "short": "SRS 4.2-2",
+   "title": "Reglement über den Schulzahnarzt-Dienst",
+   "url": "https://steinhausen.tlex.ch/app/de/texts_of_law/4.2-2",
+   "versions": [
+    {
+     "from": "2021-08-01",
+     "units": 11,
+     "source_url": "https://steinhausen.tlex.ch/api/de/texts_of_law/4.2-2",
+     "sha256": "3f6175c61db746575a3e493bef3ccf30b498b9b787a447ef5f3e47dcc95ddd53"
+    }
+   ]
+  },
+  {
+   "slug": "4-2-2-1",
+   "short": "SRS 4.2-2.1",
+   "title": "Richtlinie zum Reglement über den Schulzahnarzt-Dienst",
+   "url": "https://steinhausen.tlex.ch/app/de/texts_of_law/4.2-2.1",
+   "versions": [
+    {
+     "from": "2021-08-01",
+     "units": 9,
+     "source_url": "https://steinhausen.tlex.ch/api/de/texts_of_law/4.2-2.1",
+     "sha256": "1f11e6206b8c9fbacf10bcd1a905b0a1c0ff665c6f4bc0fc748c34ca3fa9f1c6"
+    }
+   ]
+  },
+  {
+   "slug": "4-2-3",
+   "short": "SRS 4.2-3",
+   "title": "Schul- und Disziplinarordnung der Schule Steinhausen",
+   "url": "https://steinhausen.tlex.ch/app/de/texts_of_law/4.2-3",
+   "versions": [
+    {
+     "from": "2025-08-01",
+     "units": 32,
+     "source_url": "https://steinhausen.tlex.ch/api/de/texts_of_law/4.2-3",
+     "sha256": "a11b59df411c753a8be9d47d8bac57830938770f54eed3592fda5ff6a545754a"
+    }
+   ]
+  },
+  {
+   "slug": "4-3-1",
+   "short": "SRS 4.3-1",
+   "title": "Reglement der Musikschule",
+   "url": "https://steinhausen.tlex.ch/app/de/texts_of_law/4.3-1",
+   "versions": [
+    {
+     "from": "2019-08-01",
+     "units": 15,
+     "source_url": "https://steinhausen.tlex.ch/api/de/texts_of_law/4.3-1",
+     "sha256": "fe1002a25ef00b205fcdc45b5e20b8f161ddd94e87071816b54e8aeadfbfd5df"
+    }
+   ]
+  },
+  {
+   "slug": "4-3-1-1",
+   "short": "SRS 4.3-1.1",
+   "title": "Richtlinie der Musikschule",
+   "url": "https://steinhausen.tlex.ch/app/de/texts_of_law/4.3-1.1",
+   "versions": [
+    {
+     "from": "2019-08-01",
+     "units": 21,
+     "source_url": "https://steinhausen.tlex.ch/api/de/texts_of_law/4.3-1.1",
+     "sha256": "496a76915e1622fd6289a9f4d2d2f908d0d16862c21cfa5428d936b2242740be"
+    }
+   ]
+  },
+  {
+   "slug": "4-7-1",
+   "short": "SRS 4.7-1",
+   "title": "Richtlinie für Ehrungen",
+   "url": "https://steinhausen.tlex.ch/app/de/texts_of_law/4.7-1",
+   "versions": [
+    {
+     "from": "2020-04-01",
+     "units": 11,
+     "source_url": "https://steinhausen.tlex.ch/api/de/texts_of_law/4.7-1",
+     "sha256": "92891535629a1f1394909661bd8d5bd6e75d40940b23a03f8761689e36b8a53a"
+    }
+   ]
+  },
+  {
+   "slug": "4-7-2",
+   "short": "SRS 4.7-2",
+   "title": "Richtlinie über die Benützung der Bibliothek",
+   "url": "https://steinhausen.tlex.ch/app/de/texts_of_law/4.7-2",
+   "versions": [
+    {
+     "from": "2025-01-01",
+     "units": 14,
+     "source_url": "https://steinhausen.tlex.ch/api/de/texts_of_law/4.7-2",
+     "sha256": "3d7c8d4fb153d915954d96d732e839fcead6692142c8f650e6569cdf8b058bee"
+    }
+   ]
+  },
+  {
+   "slug": "4-8-1",
+   "short": "SRS 4.8-1",
+   "title": "Richtlinie zur Förderung der Vereine",
+   "url": "https://steinhausen.tlex.ch/app/de/texts_of_law/4.8-1",
+   "versions": [
+    {
+     "from": "2024-10-28",
+     "units": 11,
+     "source_url": "https://steinhausen.tlex.ch/api/de/texts_of_law/4.8-1/versions/77",
+     "sha256": "20f053d7bc4821566b96019e920c94cd94bb6331f0e52deba131ac08ec02c021"
+    },
+    {
+     "from": "2026-01-01",
+     "units": 11,
+     "source_url": "https://steinhausen.tlex.ch/api/de/texts_of_law/4.8-1",
+     "sha256": "16258346502e9db5f58b6767a5b4a8ce120a2df661e25c6ddca71c74122fe76c"
+    }
+   ]
+  },
+  {
+   "slug": "5-3-1",
+   "short": "SRS 5.3-1",
+   "title": "Reglement Notorganisation",
+   "url": "https://steinhausen.tlex.ch/app/de/texts_of_law/5.3-1",
+   "versions": [
+    {
+     "from": "2002-08-12",
+     "units": 13,
+     "source_url": "https://steinhausen.tlex.ch/api/de/texts_of_law/5.3-1",
+     "sha256": "5602957867aa83151e042e04faeb5b4b901802a4a09c4c84d04230cc3c78d15c"
+    }
+   ]
+  },
+  {
+   "slug": "5-5-1",
+   "short": "SRS 5.5-1",
+   "title": "Feuerwehr-Reglement",
+   "url": "https://steinhausen.tlex.ch/app/de/texts_of_law/5.5-1",
+   "versions": [
+    {
+     "from": "2010-07-23",
+     "units": 15,
+     "source_url": "https://steinhausen.tlex.ch/api/de/texts_of_law/5.5-1",
+     "sha256": "f578846849bb861721ce040dd07da775a74c564c1440eab6f00d62adeadf5134"
+    }
+   ]
+  },
+  {
+   "slug": "5-5-1-1",
+   "short": "SRS 5.5-1.1",
+   "title": "Richtlinie zum Feuerwehrreglement",
+   "url": "https://steinhausen.tlex.ch/app/de/texts_of_law/5.5-1.1",
+   "versions": [
+    {
+     "from": "2022-01-01",
+     "units": 9,
+     "source_url": "https://steinhausen.tlex.ch/api/de/texts_of_law/5.5-1.1",
+     "sha256": "c01b443775c7731260c47b33aa71b6f63c06919b66db891b233137cfbf0716e5"
+    }
+   ]
+  },
+  {
+   "slug": "6-1-1",
+   "short": "SRS 6.1-1",
+   "title": "Finanzstrategie der Gemeinde Steinhausen für die Jahre 2021 bis 2028",
+   "url": "https://steinhausen.tlex.ch/app/de/texts_of_law/6.1-1",
+   "versions": [
+    {
+     "from": "2020-09-21",
+     "units": 18,
+     "source_url": "https://steinhausen.tlex.ch/api/de/texts_of_law/6.1-1",
+     "sha256": "784d3188e92941367ba12a79c99d215d0e49b433de5c44f03f582d06b42c06a7"
+    }
+   ]
+  },
+  {
+   "slug": "6-6-1",
+   "short": "SRS 6.6-1",
+   "title": "Richtlinie über die Benützung von öffentlichen Anlagen",
+   "url": "https://steinhausen.tlex.ch/app/de/texts_of_law/6.6-1",
+   "versions": [
+    {
+     "from": "2021-01-01",
+     "units": 31,
+     "source_url": "https://steinhausen.tlex.ch/api/de/texts_of_law/6.6-1",
+     "sha256": "024f2e26f7862335d58610c6b1430d1bb790e80c9e80ddee035061058513abfc"
+    }
+   ]
+  },
+  {
+   "slug": "6-6-2",
+   "short": "SRS 6.6-2",
+   "title": "Richtlinie über die Benützung und den Betrieb der Sportanlage Feldheim",
+   "url": "https://steinhausen.tlex.ch/app/de/texts_of_law/6.6-2",
+   "versions": [
+    {
+     "from": "2018-01-01",
+     "units": 25,
+     "source_url": "https://steinhausen.tlex.ch/api/de/texts_of_law/6.6-2",
+     "sha256": "ab5e26ba8a31d723f1a1d599741ae8cdd44104619582ff9f5f5bcdc18e74b282"
+    }
+   ]
+  },
+  {
+   "slug": "6-6-3",
+   "short": "SRS 6.6-3",
+   "title": "Richtlinie über die Benützung und den Betrieb des Musikschulzentrums Sunnegrund 1",
+   "url": "https://steinhausen.tlex.ch/app/de/texts_of_law/6.6-3",
+   "versions": [
+    {
+     "from": "2020-05-25",
+     "units": 13,
+     "source_url": "https://steinhausen.tlex.ch/api/de/texts_of_law/6.6-3",
+     "sha256": "cc1e67524571f90f429807e033d654a575ec5374f25407b7f0b915fffe710e28"
+    }
+   ]
+  },
+  {
+   "slug": "6-6-4",
+   "short": "SRS 6.6-4",
+   "title": "Richtlinie über die Benützung und den Betrieb der Sportanlagen Eschfeld",
+   "url": "https://steinhausen.tlex.ch/app/de/texts_of_law/6.6-4",
+   "versions": [
+    {
+     "from": "2018-01-01",
+     "units": 27,
+     "source_url": "https://steinhausen.tlex.ch/api/de/texts_of_law/6.6-4",
+     "sha256": "ef2882bd7e889e93127f31802b7dbc4487c946bf46f5fd83f5238a6af2a0e6fc"
+    }
+   ]
+  },
+  {
+   "slug": "6-6-5",
+   "short": "SRS 6.6-5",
+   "title": "Richtlinie über die Benützung und den Betrieb der Tennisanlage im Sunnegrund",
+   "url": "https://steinhausen.tlex.ch/app/de/texts_of_law/6.6-5",
+   "versions": [
+    {
+     "from": "2018-03-06",
+     "units": 28,
+     "source_url": "https://steinhausen.tlex.ch/api/de/texts_of_law/6.6-5",
+     "sha256": "44a04ab9211d008621df4f7babb2c3fd74b77f1aac0d9529f2743e780b32654b"
+    }
+   ]
+  },
+  {
+   "slug": "6-6-10-ilb",
+   "short": "ILB",
+   "title": "Immobilienleitbild",
+   "url": "https://steinhausen.tlex.ch/app/de/texts_of_law/6.6-10",
+   "versions": [
+    {
+     "from": "2024-12-09",
+     "units": 9,
+     "source_url": "https://steinhausen.tlex.ch/api/de/texts_of_law/6.6-10",
+     "sha256": "0d4f4c23b73cab735ec09b110f0e259643c4a099497243f061ff2af45a5d8cff"
+    }
+   ]
+  },
+  {
+   "slug": "7-1-1-bo",
+   "short": "BO",
+   "title": "Bauordnung der Gemeinde Steinhausen",
+   "url": "https://steinhausen.tlex.ch/app/de/texts_of_law/7.1-1",
+   "versions": [
+    {
+     "from": "2005-09-20",
+     "units": 46,
+     "source_url": "https://steinhausen.tlex.ch/api/de/texts_of_law/7.1-1/versions/56",
+     "sha256": "56697794c0e8e3fa2ec6353513e3067af2fe61721bccd96cff7b509527b53864"
+    },
+    {
+     "from": "2026-04-02",
+     "units": 41,
+     "source_url": "https://steinhausen.tlex.ch/api/de/texts_of_law/7.1-1",
+     "sha256": "1ed6b6895cdf78d5bc459f61154102bdafae090324ce80d91c31fd700b288282"
+    }
+   ]
+  },
+  {
+   "slug": "7-1-2-parkr",
+   "short": "ParkR",
+   "title": "Parkplatzreglement der Gemeinde Steinhausen",
+   "url": "https://steinhausen.tlex.ch/app/de/texts_of_law/7.1-2",
+   "versions": [
+    {
+     "from": "1995-02-14",
+     "units": 24,
+     "source_url": "https://steinhausen.tlex.ch/api/de/texts_of_law/7.1-2/versions/95",
+     "sha256": "b6be9d5411f7d431fcd7ff589d3f0b450b7920d7a38b93c72f379a24fa213ef4"
+    },
+    {
+     "from": "2026-04-14",
+     "units": 28,
+     "source_url": "https://steinhausen.tlex.ch/api/de/texts_of_law/7.1-2",
+     "sha256": "316c6c199dd3872b24ecc1a8febec3ba0a7996d23f642643da16069104b6b557"
+    }
+   ]
+  },
+  {
+   "slug": "7-1-3-gebuhrenordnung-zur-bauordnung",
+   "short": "Gebührenordnung zur Bauordnung",
+   "title": "Richtlinie über die Baugebühren",
+   "url": "https://steinhausen.tlex.ch/app/de/texts_of_law/7.1-3",
+   "versions": [
+    {
+     "from": "2026-04-02",
+     "units": 7,
+     "source_url": "https://steinhausen.tlex.ch/api/de/texts_of_law/7.1-3",
+     "sha256": "017cb437b114f1bec996fd0e5a0bf60157c5d3711692ce7b1e94576b283c0605"
+    }
+   ]
+  },
+  {
+   "slug": "7-3-1",
+   "short": "SRS 7.3-1",
+   "title": "Energieleitbild",
+   "url": "https://steinhausen.tlex.ch/app/de/texts_of_law/7.3-1",
+   "versions": [
+    {
+     "from": "2021-11-08",
+     "units": 17,
+     "source_url": "https://steinhausen.tlex.ch/api/de/texts_of_law/7.3-1",
+     "sha256": "a9e99b7e0474a18989423544fccfe51a0df46adbfacacfd9e79841a3089a5d67"
+    }
+   ]
+  },
+  {
+   "slug": "7-3-2",
+   "short": "SRS 7.3-2",
+   "title": "Richtlinie zur Förderung von Massnahmen in den Bereichen Energie und Klima",
+   "url": "https://steinhausen.tlex.ch/app/de/texts_of_law/7.3-2",
+   "versions": [
+    {
+     "from": "2025-01-01",
+     "units": 17,
+     "source_url": "https://steinhausen.tlex.ch/api/de/texts_of_law/7.3-2",
+     "sha256": "921fb967f7fe1da5cd5c30b7e60686d8e674b99e9e63f39f52a356e4ed0f72f7"
+    }
+   ]
+  },
+  {
+   "slug": "7-3-3",
+   "short": "SRS 7.3-3",
+   "title": "Verordnung über die Lärmbekämpfung",
+   "url": "https://steinhausen.tlex.ch/app/de/texts_of_law/7.3-3",
+   "versions": [
+    {
+     "from": "1971-05-18",
+     "units": 17,
+     "source_url": "https://steinhausen.tlex.ch/api/de/texts_of_law/7.3-3",
+     "sha256": "ea7427a92b846bc94d81b14f2a51b583ef22d973ac096e20195a7b07988ea0ca"
+    }
+   ]
+  },
+  {
+   "slug": "7-4-3-1-ar",
+   "short": "AR",
+   "title": "Abwasserreglement",
+   "url": "https://steinhausen.tlex.ch/app/de/texts_of_law/7.4.3-1",
+   "versions": [
+    {
+     "from": "2025-01-01",
+     "units": 38,
+     "source_url": "https://steinhausen.tlex.ch/api/de/texts_of_law/7.4.3-1",
+     "sha256": "70ec71cff83a3ce2d0c2589cc81ec2f74f26566b40c2441d8049749711817a48"
+    }
+   ]
+  },
+  {
+   "slug": "7-4-3-1-1-var",
+   "short": "VAR",
+   "title": "Vollzugsverordnung zum Abwasserreglement",
+   "url": "https://steinhausen.tlex.ch/app/de/texts_of_law/7.4.3-1.1",
+   "versions": [
+    {
+     "from": "2025-01-01",
+     "units": 20,
+     "source_url": "https://steinhausen.tlex.ch/api/de/texts_of_law/7.4.3-1.1",
+     "sha256": "05d2e209ab5b1ad988b500de10155099ccd4d7655bf54a588fe8607badb46995"
+    }
+   ]
+  },
+  {
+   "slug": "7-6-1-rstra",
+   "short": "RStra",
+   "title": "Strassenreglement der Gemeinde Steinhausen",
+   "url": "https://steinhausen.tlex.ch/app/de/texts_of_law/7.6-1",
+   "versions": [
+    {
+     "from": "1999-07-13",
+     "units": 51,
+     "source_url": "https://steinhausen.tlex.ch/api/de/texts_of_law/7.6-1/versions/97",
+     "sha256": "958f9b28f38a5f4e2366b92db08824d3b7f7839f5c02a19f6fd2bf67d012b2ef"
+    },
+    {
+     "from": "2026-04-14",
+     "units": 43,
+     "source_url": "https://steinhausen.tlex.ch/api/de/texts_of_law/7.6-1",
+     "sha256": "c86b342ff46121034aa29fb07088e8fcfd7597092db8739813322144b1c3b328"
+    }
+   ]
+  },
+  {
+   "slug": "7-6-2",
+   "short": "SRS 7.6-2",
+   "title": "Reglement über das Reklamewesen",
+   "url": "https://steinhausen.tlex.ch/app/de/texts_of_law/7.6-2",
+   "versions": [
+    {
+     "from": "2000-10-24",
+     "units": 22,
+     "source_url": "https://steinhausen.tlex.ch/api/de/texts_of_law/7.6-2",
+     "sha256": "a2fad49948480852d39cf269d2f6559482849ac28d13609fe84541118194fab0"
+    }
+   ]
+  },
+  {
+   "slug": "7-7-1",
+   "short": "SRS 7.7-1",
+   "title": "Verordnung über das nächtliche Dauerparkieren auf öffentlichem Grund",
+   "url": "https://steinhausen.tlex.ch/app/de/texts_of_law/7.7-1",
+   "versions": [
+    {
+     "from": "2006-01-01",
+     "units": 8,
+     "source_url": "https://steinhausen.tlex.ch/api/de/texts_of_law/7.7-1",
+     "sha256": "472d435988231bf8034a6b32b7d9e48f8498fcf79d25a5f11da00d453daa41ce"
+    }
+   ]
+  },
+  {
+   "slug": "8-2-1",
+   "short": "SRS 8.2-1",
+   "title": "Bestattungs- und Friedhofreglement",
+   "url": "https://steinhausen.tlex.ch/app/de/texts_of_law/8.2-1",
+   "versions": [
+    {
+     "from": "2025-01-01",
+     "units": 24,
+     "source_url": "https://steinhausen.tlex.ch/api/de/texts_of_law/8.2-1",
+     "sha256": "80d96a2f12f1ea38e40e3203e79068aee032112629608728dbc7ed6c83eee5e4"
+    }
+   ]
+  },
+  {
+   "slug": "8-2-1-1",
+   "short": "SRS 8.2-1.1",
+   "title": "Richtlinie zum Bestattungs- und Friedhofreglement",
+   "url": "https://steinhausen.tlex.ch/app/de/texts_of_law/8.2-1.1",
+   "versions": [
+    {
+     "from": "2025-01-01",
+     "units": 23,
+     "source_url": "https://steinhausen.tlex.ch/api/de/texts_of_law/8.2-1.1",
+     "sha256": "95458c7b49779d1241cd9da4d0d96d3e4d9f666420c189da5aae7fe57a5d4d8a"
+    }
+   ]
+  },
+  {
+   "slug": "8-3-1",
+   "short": "SRS 8.3-1",
+   "title": "Reglement über das Halten von Hunden und die Erhebung der Hundesteuer",
+   "url": "https://steinhausen.tlex.ch/app/de/texts_of_law/8.3-1",
+   "versions": [
+    {
+     "from": "1976-01-01",
+     "units": 17,
+     "source_url": "https://steinhausen.tlex.ch/api/de/texts_of_law/8.3-1",
+     "sha256": "65f33e803963a10e2db2b88866a2c14020e31312392dda669757ef33c4648faa"
+    }
+   ]
+  },
+  {
+   "slug": "8-7-1",
+   "short": "SRS 8.7-1",
+   "title": "Richtlinie über die Vermietung von Alterswohnungen in der Zentrumsüberbauung Dreiklang",
+   "url": "https://steinhausen.tlex.ch/app/de/texts_of_law/8.7-1",
+   "versions": [
+    {
+     "from": "2017-03-13",
+     "units": 14,
+     "source_url": "https://steinhausen.tlex.ch/api/de/texts_of_law/8.7-1",
+     "sha256": "455b203f294e8bd9e69f2eaa927591da239fcf50f77712f7768876e2b9b3b7db"
+    }
+   ]
+  },
+  {
+   "slug": "9-4-1",
+   "short": "SRS 9.4-1",
+   "title": "Richtlinie über die Erhebung der Beherbergungsabgabe",
+   "url": "https://steinhausen.tlex.ch/app/de/texts_of_law/9.4-1",
+   "versions": [
+    {
+     "from": "2015-01-01",
+     "units": 10,
+     "source_url": "https://steinhausen.tlex.ch/api/de/texts_of_law/9.4-1",
+     "sha256": "c949a347fbfe10c9c0677a33e6a86c990a693e1291192a5dc19c8ce60c907731"
+    },
+    {
+     "from": "2027-01-01",
+     "units": 10,
+     "source_url": "https://steinhausen.tlex.ch/api/de/texts_of_law/9.4-1/versions/133",
+     "sha256": "5c6dd7189f587ecb7c849d084f3b644f3d320451d6f8d560036dc561ac128497"
+    }
+   ]
+  }
+ ]
+}
