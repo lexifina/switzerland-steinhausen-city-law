@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-24T12:49:06Z",
+ "generated": "2026-11-25T08:29:06Z",
  "latest": {
   "lexwork-steinhausen-city|switzerland/zug/steinhausen/acts": {
    "attempt": 1,
@@ -19,38 +19,35 @@
     "held": 51,
     "not_at_source": 2,
     "out_of_scope": 2,
-    "pending": 2,
+    "pending": 0,
     "repo": 51,
-    "source_in_scope": 53
+    "source_in_scope": 51
    },
-   "check_id": "ch-lexwork-steinhausen-city-20261124T124829Z",
+   "check_id": "ch-lexwork-steinhausen-city-20261125T082132Z",
    "commits": null,
    "corpus": "switzerland/zug/steinhausen/acts",
    "error": null,
-   "finished": "2026-11-24T12:49:06Z",
+   "finished": "2026-11-25T08:21:57Z",
    "flags": [],
-   "gap": 9,
-   "note": "steinhausen.tlex.ch: index of 55 acts (55 in force); held 51; 2 in force and in scope not held yet, 2 out of scope (land-use plans, concessions, directives, forms: as the builder), 0 published only as PDF; 8 held acts compared with the collection this check (every one within 7 days); 2 candidate acts read",
-   "outcome": "changed",
+   "gap": 4,
+   "note": "steinhausen.tlex.ch: index of 55 acts (55 in force); held 51; 0 in force and in scope not held yet, 2 out of scope (land-use plans, concessions, directives, forms: as the builder), 2 published only as PDF; 8 held acts compared with the collection this check (every one within 7 days); 0 candidate acts read",
+   "outcome": "no-change",
    "published": {
     "added": [],
     "changed": [],
     "removed": []
    },
-   "requests": 25,
-   "runner": "lawwatch switzerland (d83546088b)",
+   "requests": 22,
+   "runner": "lawwatch switzerland (08a05acd17)",
    "schema": "lexifina-check/1",
    "seen": {
-    "added": [
-     "8.1-1",
-     "8.1-2"
-    ],
+    "added": [],
     "changed": [],
     "removed": []
    },
    "snapshot": "55 entries, 55 in force (steinhausen.tlex.ch)",
    "source": "lexwork-steinhausen-city",
-   "started": "2026-11-24T12:48:29Z",
+   "started": "2026-11-25T08:21:32Z",
    "unexplained": 0,
    "update": {
     "left_for_next_check": 0,
@@ -58,7 +55,7 @@
     "new": 0,
     "nothing_new": 0,
     "parts": [],
-    "pdf_only": 2,
+    "pdf_only": 0,
     "re_read": 0,
     "unreadable": 0
    },
@@ -71,7 +68,7 @@
     "not_compared_why": null,
     "ok": true,
     "swept": 8,
-    "versions_checked": 8,
+    "versions_checked": 11,
     "versions_differ": 0
    }
   }
