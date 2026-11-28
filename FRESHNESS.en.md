@@ -8,7 +8,7 @@ How global-law measures how current every country is: [global-law FRESHNESS.md](
 
 ### Steinhausen: systematic collection (steinhausen.tlex.ch) · `switzerland/zug/steinhausen/acts`
 
-- The official source last read and every act held here checked against it: **2026-11-27 07:07 UTC**.
+- The official source last read and every act held here checked against it: **2026-11-28 08:30 UTC**.
 - Acts held here: 51; current at the source: 51; changed at the source since the version held here: 0; no longer at the source: 0.
 - Compared with the source in this read: 8 of the 51 acts held here; the others were not compared in this read (see the check's note).
 - Not published: 2 (held here, no longer at the source: 2); with no reason: 0.

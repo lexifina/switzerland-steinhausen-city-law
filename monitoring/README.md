@@ -6,18 +6,21 @@
 
 Wie global-law jedes Land beobachtet: [global-law monitoring/](https://github.com/lexifina/global-law/tree/main/monitoring). Diese Seite zeigt dasselbe nur für Steinhausen: jedes Lesen einer amtlichen Quelle, wann, und was daraus folgte (Vorschriften hinzugefügt, geändert und entfernt). Maschinenlesbar in [data/checks/](../data/checks/) (JSON Lines, Schema `lexifina-check/1`), in `git log` als Commits mit `Kind: check` und Monat für Monat in [checks/](checks/).
 
-**Letzte Prüfung:** 2026-11-27 07:07 UTC, Steinhausen: Systematische Sammlung (steinhausen.tlex.ch): 17 Adressen gelesen; 0 hinzugefügt, 0 geändert, 0 entfernt; keine Änderung; 2 nicht veröffentlicht, davon 0 ohne Grund.
+**Letzte Prüfung:** 2026-11-28 08:30 UTC, Steinhausen: Systematische Sammlung (steinhausen.tlex.ch): 18 Adressen gelesen; 0 hinzugefügt, 0 geändert, 0 entfernt; keine Änderung; 2 nicht veröffentlicht, davon 0 ohne Grund.
 
 ## Quellen
 
 | Quelle | Ordner | Wie oft | Letzte erfolgreiche Prüfung | Letztes Ergebnis | Stand |
 | --- | --- | --- | --- | --- | --- |
-| [Steinhausen: Systematische Sammlung (steinhausen.tlex.ch)](https://steinhausen.tlex.ch/) | `<act>/` | täglich | 2026-11-27 07:07 UTC | keine Änderung | beobachtet |
+| [Steinhausen: Systematische Sammlung (steinhausen.tlex.ch)](https://steinhausen.tlex.ch/) | `<act>/` | täglich | 2026-11-28 08:30 UTC | keine Änderung | beobachtet |
 
 ## Die letzten 30 Tage
 
 | Beginn (UTC) | Quelle | Gelesen | Hinzugefügt | Geändert | Entfernt | Nicht veröffentlicht (ohne Grund) | Ergebnis | Commits |
 | --- | --- | ---: | ---: | ---: | ---: | ---: | --- | ---: |
+| [2026-11-28 08:29](checks/2026-11.md#ch-lexwork-steinhausen-city-20261128t082957z) | lexwork-steinhausen-city | 18 | 0 | 0 | 0 | 2 (0) | keine Änderung | — |
+| [2026-11-28 07:11](checks/2026-11.md#ch-lexwork-steinhausen-city-20261128t071122z) | lexwork-steinhausen-city | 0 | 0 | 0 | 0 | 0 (0) | die Prüfung ist fehlgeschlagen | — |
+| [2026-11-28 06:42](checks/2026-11.md#ch-lexwork-steinhausen-city-20261128t064204z) | lexwork-steinhausen-city | 0 | 0 | 0 | 0 | 0 (0) | die Prüfung ist fehlgeschlagen | — |
 | [2026-11-27 07:07](checks/2026-11.md#ch-lexwork-steinhausen-city-20261127t070731z) | lexwork-steinhausen-city | 17 | 0 | 0 | 0 | 2 (0) | keine Änderung | — |
 | [2026-11-26 07:13](checks/2026-11.md#ch-lexwork-steinhausen-city-20261126t071303z) | lexwork-steinhausen-city | 16 | 0 | 0 | 0 | 2 (0) | keine Änderung | — |
 | [2026-11-25 08:21](checks/2026-11.md#ch-lexwork-steinhausen-city-20261125t082132z) | lexwork-steinhausen-city | 22 | 0 | 0 | 0 | 4 (0) | keine Änderung | — |
